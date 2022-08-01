@@ -1,0 +1,6 @@
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\bin\Debug\testdeliarr.exe.config
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\bin\Debug\testdeliarr.exe
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\bin\Debug\testdeliarr.pdb
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\obj\Debug\testdeliarr.csprojResolveAssemblyReference.cache
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\obj\Debug\testdeliarr.exe
+c:\users\ugl1\documents\visual studio 2015\Projects\testdeliarr\testdeliarr\obj\Debug\testdeliarr.pdb
